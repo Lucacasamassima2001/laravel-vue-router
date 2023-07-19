@@ -11,8 +11,6 @@ return [
         "strGlass" => "Collins glass",
         "strInstructions" => "In a shaker half-filled with ice cubes, combine the gin, lemon juice, and sugar. Shake well. Strain into a collins glass almost filled with ice cubes. Add the club soda. Stir and garnish with the cherry and the orange slice.",
         "strInstructionsIT" => "In uno shaker riempito a metà con cubetti di ghiaccio, unisci il gin, il succo di limone e lo zucchero.Mescolate e guarnite con la ciliegia e la fetta d'arancia.Filtrare in un bicchiere collins pieno di cubetti di ghiaccio.Aggiungi la soda club.Agitare bene.",
-        "strInstructionsZH-HANS" => null,
-        "strInstructionsZH-HANT" => null,
         "strDrinkThumb" => "https://www.thecocktaildb.com/images/media/drink/7cll921606854636.jpg",
         "strIngredient1" => "Gin",
         "strIngredient2" => "Lemon juice",
