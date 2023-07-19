@@ -158,8 +158,6 @@ return [
         "strAlcoholic" => "Alcoholic",
         "strGlass" => "Shot glass",
         "strInstructions" => "Pour one part Jack Daniels and one part Jim Beam into shot glass then float Wild Turkey on top.",
-
-        "strInstructionsDE" => "Gießen Sie ein Teil Jack Daniels und ein Teil Jim Beam in ein Schnapsglas und lassen Sie Wild Turkey darauf treiben.",
         "strInstructionsIT" => "Versare una parte di Jack Daniels e una parte diJim Beam nel bicchierino da shot, infine versare il Wild Turkey.",
         "strDrinkThumb" => "https://www.thecocktaildb.com/images/media/drink/2j1m881503563583.jpg",
         "strIngredient1" => "Jim Beam",
