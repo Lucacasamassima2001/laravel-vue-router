@@ -2,9 +2,7 @@
 
 return [
     [
-        "idDrink" => "12402",
         "strDrink" => "Tom Collins",
-        "strDrinkAlternate" => null,
         "strTags" => null,
         "strCategory" => "Ordinary Drink",
         "strAlcoholic" => "Alcoholic",
@@ -36,9 +34,7 @@ return [
         "dateModified" => "2015-08-18 15:21:22",
     ],
     [
-        "idDrink" => "178360",
         "strDrink" => "Lemon Elderflower Spritzer",
-        "strDrinkAlternate" => null,
         "strTags" => "Summer, Fresh, Refreshing",
         "strCategory" => "Cocktail",
         "strAlcoholic" => "Alcoholic",
@@ -70,9 +66,7 @@ return [
         "dateModified" => null
     ],
     [
-        "idDrink" => "11472",
         "strDrink" => "Hawaiian Cocktail",
-        "strDrinkAlternate" => null,
         "strTags" => null,
         "strCategory" => "Ordinary Drink",
         "strAlcoholic" => "Alcoholic",
@@ -104,9 +98,7 @@ return [
         "dateModified" => "2017-09-08 16:03:07"
     ],
     [
-        "idDrink" => "14071",
         "strDrink" => "Belgian Blue",
-        "strDrinkAlternate" => null,
         "strTags" => null,
         "strCategory" => "Soft Drink",
         "strAlcoholic" => "Alcoholic",
@@ -138,9 +130,7 @@ return [
         "dateModified" => "2015-09-03 02:56:59"
     ],
     [
-        "idDrink" => "16984",
         "strDrink" => "Radioactive Long Island Iced Tea",
-        "strDrinkAlternate" => null,
         "strTags" => null,
         "strCategory" => "Ordinary Drink",
         "strAlcoholic" => "Alcoholic",
@@ -172,9 +162,7 @@ return [
         "dateModified" => "2017-08-24 09:31:52"
     ],
     [
-        "idDrink" => "16985",
         "strDrink" => "Shot-gun",
-        "strDrinkAlternate" => null,
         "strTags" => null,
         "strCategory" => "Shot",
         "strAlcoholic" => "Alcoholic",
@@ -208,9 +196,7 @@ return [
         "dateModified" => "2017-08-24 09:33:03"
     ],
     [
-        "idDrink" => "14195",
         "strDrink" => "Snowball",
-        "strDrinkAlternate" => null,
         "strTags" => "Christmas",
         "strCategory" => "Ordinary Drink",
         "strAlcoholic" => "Alcoholic",
@@ -242,9 +228,7 @@ return [
         "dateModified" => "2017-09-06 23:03:36"
     ],
     [
-        "idDrink" => "12656",
         "strDrink" => "Banana Strawberry Shake",
-        "strDrinkAlternate" => null,
         "strTags" => null,
         "strCategory" => "Shake",
         "strAlcoholic" => "Non alcoholic",
@@ -276,9 +260,7 @@ return [
         "dateModified" => "2016-09-01 10:03:54"
     ],
     [
-        "idDrink" => "11320",
         "strDrink" => "Dragonfly",
-        "strDrinkAlternate" => null,
         "strTags" => null,
         "strCategory" => "Ordinary Drink",
         "strAlcoholic" => "Alcoholic",
@@ -310,9 +292,7 @@ return [
         "dateModified" => "2017-09-02 22:51:40"
     ],
     [
-        "idDrink" => "178318",
         "strDrink" => "747 Drink",
-        "strDrinkAlternate" => null,
         "strTags" => null,
         "strCategory" => "Cocktail",
         "strAlcoholic" => "Alcoholic",
