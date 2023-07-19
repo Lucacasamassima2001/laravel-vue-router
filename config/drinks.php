@@ -30,8 +30,6 @@ return [
         
         "strImageSource" => "https://commons.wikimedia.org/wiki/File:Tom_Collins.jpg",
         "strImageAttribution" => "Will Shenton",
-        "strCreativeCommonsConfirmed" => "Yes",
-        "dateModified" => "2015-08-18 15:21:22",
     ],
     [
         "strDrink" => "Lemon Elderflower Spritzer",
@@ -62,8 +60,6 @@ return [
         
         "strImageSource" => "https://www.instagram.com/p/CNLYC2_sdlk",
         "strImageAttribution" => null,
-        "strCreativeCommonsConfirmed" => "No",
-        "dateModified" => null
     ],
     [
         "strDrink" => "Hawaiian Cocktail",
@@ -94,8 +90,6 @@ return [
         
         "strImageSource" => null,
         "strImageAttribution" => null,
-        "strCreativeCommonsConfirmed" => "No",
-        "dateModified" => "2017-09-08 16:03:07"
     ],
     [
         "strDrink" => "Belgian Blue",
@@ -126,8 +120,6 @@ return [
         
         "strImageSource" => null,
         "strImageAttribution" => null,
-        "strCreativeCommonsConfirmed" => "Yes",
-        "dateModified" => "2015-09-03 02:56:59"
     ],
     [
         "strDrink" => "Radioactive Long Island Iced Tea",
@@ -158,8 +150,6 @@ return [
         
         "strImageSource" => null,
         "strImageAttribution" => null,
-        "strCreativeCommonsConfirmed" => "No",
-        "dateModified" => "2017-08-24 09:31:52"
     ],
     [
         "strDrink" => "Shot-gun",
@@ -192,8 +182,6 @@ return [
         
         "strImageSource" => null,
         "strImageAttribution" => null,
-        "strCreativeCommonsConfirmed" => "No",
-        "dateModified" => "2017-08-24 09:33:03"
     ],
     [
         "strDrink" => "Snowball",
@@ -224,8 +212,6 @@ return [
         
         "strImageSource" => null,
         "strImageAttribution" => null,
-        "strCreativeCommonsConfirmed" => "No",
-        "dateModified" => "2017-09-06 23:03:36"
     ],
     [
         "strDrink" => "Banana Strawberry Shake",
@@ -256,8 +242,6 @@ return [
         
         "strImageSource" => null,
         "strImageAttribution" => null,
-        "strCreativeCommonsConfirmed" => "No",
-        "dateModified" => "2016-09-01 10:03:54"
     ],
     [
         "strDrink" => "Dragonfly",
@@ -288,8 +272,6 @@ return [
         
         "strImageSource" => null,
         "strImageAttribution" => null,
-        "strCreativeCommonsConfirmed" => "Yes",
-        "dateModified" => "2017-09-02 22:51:40"
     ],
     [
         "strDrink" => "747 Drink",
@@ -320,7 +302,5 @@ return [
         
         "strImageSource" => null,
         "strImageAttribution" => null,
-        "strCreativeCommonsConfirmed" => "Yes",
-        "dateModified" => null
     ],
 ];
