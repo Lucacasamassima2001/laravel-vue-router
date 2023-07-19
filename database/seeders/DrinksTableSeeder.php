@@ -2,8 +2,9 @@
 
 namespace Database\Seeders;
 
-use Illuminate\Database\Console\Seeds\WithoutModelEvents;
+use App\Models\Drink;
 use Illuminate\Database\Seeder;
+use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 
 class DrinksTableSeeder extends Seeder
 {
@@ -14,6 +15,8 @@ class DrinksTableSeeder extends Seeder
      */
     public function run()
     {
-        //
+        foreach (config('drinks') as $drink) {
+            Drink::create($drink);
+        }
     }
 }
