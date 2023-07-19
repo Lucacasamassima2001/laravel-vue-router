@@ -2,7 +2,6 @@
 
 return [
     [
-        "idDrink" => "12402",
         "strDrink" => "Tom Collins",
         "strTags" => null,
         "strCategory" => "Ordinary Drink",
@@ -19,7 +18,7 @@ return [
         "strIngredient6" => "Orange",
         "strIngredient7" => null,
         "strIngredient8" => null,
-        
+
         "strMeasure1" => "2 oz ",
         "strMeasure2" => "1 oz ",
         "strMeasure3" => "1 tsp superfine ",
@@ -28,12 +27,11 @@ return [
         "strMeasure6" => "1 ",
         "strMeasure7" => null,
         "strMeasure8" => null,
-        
+
         "strImageSource" => "https://commons.wikimedia.org/wiki/File:Tom_Collins.jpg",
         "strImageAttribution" => "Will Shenton",
     ],
     [
-        "idDrink" => "178360",
         "strDrink" => "Lemon Elderflower Spritzer",
         "strTags" => "Summer, Fresh, Refreshing",
         "strCategory" => "Cocktail",
@@ -50,7 +48,7 @@ return [
         "strIngredient6" => null,
         "strIngredient7" => null,
         "strIngredient8" => null,
-        
+
         "strMeasure1" => "2 tsp",
         "strMeasure2" => "1 shot",
         "strMeasure3" => "1/3 cup",
@@ -59,12 +57,11 @@ return [
         "strMeasure6" => "",
         "strMeasure7" => "",
         "strMeasure8" => null,
-        
+
         "strImageSource" => "https://www.instagram.com/p/CNLYC2_sdlk",
         "strImageAttribution" => null,
     ],
     [
-        "idDrink" => "11472",
         "strDrink" => "Hawaiian Cocktail",
         "strTags" => null,
         "strCategory" => "Ordinary Drink",
@@ -81,7 +78,7 @@ return [
         "strIngredient6" => null,
         "strIngredient7" => null,
         "strIngredient8" => null,
-        
+
         "strMeasure1" => "2 oz ",
         "strMeasure2" => "1/2 oz ",
         "strMeasure3" => "1 tblsp ",
@@ -90,12 +87,11 @@ return [
         "strMeasure6" => null,
         "strMeasure7" => null,
         "strMeasure8" => null,
-        
+
         "strImageSource" => null,
         "strImageAttribution" => null,
     ],
     [
-        "idDrink" => "14071",
         "strDrink" => "Belgian Blue",
         "strTags" => null,
         "strCategory" => "Soft Drink",
@@ -112,7 +108,7 @@ return [
         "strIngredient6" => null,
         "strIngredient7" => null,
         "strIngredient8" => null,
-        
+
         "strMeasure1" => "2 cl ",
         "strMeasure2" => "1 cl ",
         "strMeasure3" => "1 cl ",
@@ -121,12 +117,11 @@ return [
         "strMeasure6" => null,
         "strMeasure7" => null,
         "strMeasure8" => null,
-        
+
         "strImageSource" => null,
         "strImageAttribution" => null,
     ],
     [
-        "idDrink" => "16984",
         "strDrink" => "Radioactive Long Island Iced Tea",
         "strTags" => null,
         "strCategory" => "Ordinary Drink",
@@ -143,7 +138,7 @@ return [
         "strIngredient6" => "Chambord raspberry liqueur",
         "strIngredient7" => "Midori melon liqueur",
         "strIngredient8" => "Malibu rum",
-        
+
         "strMeasure1" => "1 oz ",
         "strMeasure2" => "1 oz ",
         "strMeasure3" => "1 oz ",
@@ -152,19 +147,18 @@ return [
         "strMeasure6" => "1 oz ",
         "strMeasure7" => "1 oz ",
         "strMeasure8" => "1 oz ",
-        
+
         "strImageSource" => null,
         "strImageAttribution" => null,
     ],
     [
-        "idDrink" => "16985",
         "strDrink" => "Shot-gun",
         "strTags" => null,
         "strCategory" => "Shot",
         "strAlcoholic" => "Alcoholic",
         "strGlass" => "Shot glass",
         "strInstructions" => "Pour one part Jack Daniels and one part Jim Beam into shot glass then float Wild Turkey on top.",
-        
+
         "strInstructionsDE" => "Gießen Sie ein Teil Jack Daniels und ein Teil Jim Beam in ein Schnapsglas und lassen Sie Wild Turkey darauf treiben.",
         "strInstructionsIT" => "Versare una parte di Jack Daniels e una parte diJim Beam nel bicchierino da shot, infine versare il Wild Turkey.",
         "strDrinkThumb" => "https://www.thecocktaildb.com/images/media/drink/2j1m881503563583.jpg",
@@ -176,7 +170,7 @@ return [
         "strIngredient6" => null,
         "strIngredient7" => null,
         "strIngredient8" => null,
-        
+
         "strMeasure1" => "1 part ",
         "strMeasure2" => "1 part ",
         "strMeasure3" => "1 oz ",
@@ -185,12 +179,11 @@ return [
         "strMeasure6" => null,
         "strMeasure7" => null,
         "strMeasure8" => null,
-        
+
         "strImageSource" => null,
         "strImageAttribution" => null,
     ],
     [
-        "idDrink" => "14195",
         "strDrink" => "Snowball",
         "strTags" => "Christmas",
         "strCategory" => "Ordinary Drink",
@@ -207,7 +200,7 @@ return [
         "strIngredient6" => null,
         "strIngredient7" => null,
         "strIngredient8" => null,
-        
+
         "strMeasure1" => "1 1/2 oz ",
         "strMeasure2" => "8-10 oz cold ",
         "strMeasure3" => "1 slice ",
@@ -216,12 +209,11 @@ return [
         "strMeasure6" => null,
         "strMeasure7" => null,
         "strMeasure8" => null,
-        
+
         "strImageSource" => null,
         "strImageAttribution" => null,
     ],
     [
-        "idDrink" => "12656",
         "strDrink" => "Banana Strawberry Shake",
         "strTags" => null,
         "strCategory" => "Shake",
@@ -238,7 +230,7 @@ return [
         "strIngredient6" => null,
         "strIngredient7" => null,
         "strIngredient8" => null,
-        
+
         "strMeasure1" => "1/2 lb frozen ",
         "strMeasure2" => "1 frozen ",
         "strMeasure3" => "1 cup plain ",
@@ -247,12 +239,11 @@ return [
         "strMeasure6" => null,
         "strMeasure7" => null,
         "strMeasure8" => null,
-        
+
         "strImageSource" => null,
         "strImageAttribution" => null,
     ],
     [
-        "idDrink" => "11320",
         "strDrink" => "Dragonfly",
         "strTags" => null,
         "strCategory" => "Ordinary Drink",
@@ -269,7 +260,7 @@ return [
         "strIngredient6" => null,
         "strIngredient7" => null,
         "strIngredient8" => null,
-        
+
         "strMeasure1" => "1 1/2 oz ",
         "strMeasure2" => "4 oz ",
         "strMeasure3" => "1 ",
@@ -278,12 +269,11 @@ return [
         "strMeasure6" => null,
         "strMeasure7" => null,
         "strMeasure8" => null,
-        
+
         "strImageSource" => null,
         "strImageAttribution" => null,
     ],
     [
-        "idDrink" => "178318",
         "strDrink" => "747 Drink",
         "strTags" => null,
         "strCategory" => "Cocktail",
@@ -300,7 +290,7 @@ return [
         "strIngredient6" => null,
         "strIngredient7" => null,
         "strIngredient8" => null,
-        
+
         "strMeasure1" => "1 oz",
         "strMeasure2" => "1 oz",
         "strMeasure3" => "1 oz",
@@ -309,7 +299,7 @@ return [
         "strMeasure6" => "",
         "strMeasure7" => "",
         "strMeasure8" => null,
-        
+
         "strImageSource" => null,
         "strImageAttribution" => null,
     ],
