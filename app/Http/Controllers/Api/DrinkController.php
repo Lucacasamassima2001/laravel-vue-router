@@ -11,7 +11,7 @@ class DrinkController extends Controller
 
     public function index(Request $request)
     {
-        $drinks = Drink::all()->paginate(6);
+        $drinks = Drink::paginate(6);
 
         return response()->json([
             'success'   => true,
