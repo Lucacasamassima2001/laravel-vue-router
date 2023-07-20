@@ -467,7 +467,7 @@ return [
         "strMeasure7"     => null,
         "strMeasure8"     => null,
         "strImageSource"     => null,
-        "strImageAttribution"     => nul
+        "strImageAttribution"     => null,
     ],
     [
         "strDrink"     => "Thai Iced Tea",
