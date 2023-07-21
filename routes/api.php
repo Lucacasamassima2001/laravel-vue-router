@@ -1,8 +1,8 @@
 <?php
 
+use App\Http\Controllers\Api\DrinkController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\Api\DrinkController;
 
 /*
 |--------------------------------------------------------------------------
@@ -21,3 +21,6 @@ use App\Http\Controllers\Api\DrinkController;
 
 Route::get('drinks', [DrinkController::class, 'index'])->name('api.drinks.index');
 Route::get('drinks/{drink}', [DrinkController::class, 'show'])->name('api.drinks.show');
+
+// Route for sending emails
+Route::post('leads/', [LeadController::class, 'store'])->name('api.leads.store');
